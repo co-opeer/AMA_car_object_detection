@@ -12,7 +12,7 @@ epochs = 9
 steps_per_epoch = 50
 
 # Перевірка наявності збереженої моделі
-saved_model_path = r'\train_test\saved_model.h5'
+saved_model_path = r'C:\Users\PC\PycharmProjects\AMA_car_object_detection\train_test\saved_model.h5'
 
 
 def data_generator(df=train, path=train_path):

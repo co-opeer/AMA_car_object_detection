@@ -69,6 +69,6 @@ def test(model):
         plt.show()
 
 
-saved_model_path = r'\train_test\saved_model_good.h5'
+saved_model_path = r'C:\Users\PC\PycharmProjects\AMA_car_object_detection\train_test\saved_model.h5'
 loaded_model = tf.keras.models.load_model(saved_model_path)
 test(loaded_model)
