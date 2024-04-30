@@ -1,3 +1,3 @@
 # AMA_car_object_detection
- The trained model is too large, so download and unzip it into the project structure [model](https://drive.google.com/drive/folders/1r72DuznYEKnheaOm-7efuqEwRuop1kRc?usp=sharing)    
+ I am not uploading the trained model because the file size is too big       
 [Dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
